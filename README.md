@@ -4,7 +4,7 @@ Angular component for selecting dates and times
 Known to work as a component for 
 
 ## Dependencies
-- Requires `moment`, `moment-range`, and `rxsj`.
+- Requires `moment`, `moment-range`, and `RxJS`.
 - Known to work with Angular 4.x
 
 ## To-Do
